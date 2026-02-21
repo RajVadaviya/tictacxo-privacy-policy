@@ -1,63 +1,86 @@
-# Privacy Policy for TicTacXO
+# Privacy Policy & Account Deletion – TicTacXO
 
-**Last updated: February 2026**
+Last updated: February 2026  
+Developer: Raj Vadaviya  
+Contact: rajvadaviya1@gmail.com
 
 TicTacXO ("we", "our", or "us") operates the TicTacXO mobile application (the "Service").
 
-## Information We Collect
+------------------------------------------------------------
 
-We may collect limited information necessary to provide multiplayer functionality, including:
+PRIVACY POLICY
 
-- Anonymous user identifiers
+Information We Collect
+
+We collect limited account information when users sign in with Google, including:
+
+- Email address
+- Display name (if provided by Google Sign-In)
+- Anonymous user identifier
+- Game statistics (wins, scores, matches played)
 - Game room data (room ID, player moves, game status)
 - Device type and operating system version
 
 We do NOT collect:
-- Personal names
-- Email addresses
 - Phone numbers
 - Exact location data
+- Contacts
+- Photos or media files
 
-## How We Use Information
+How We Use Information
 
 We use the collected data to:
 
 - Enable real-time multiplayer gameplay
 - Synchronize game state between players
+- Maintain player statistics
 - Improve app stability and performance
 - Prevent misuse or cheating
 
-## Firebase Services
+Firebase Services
 
-TicTacXO uses Google Firebase for real-time database functionality.
+TicTacXO uses Google Firebase for real-time database functionality and backend services.
 
-Firebase may collect anonymized usage data in accordance with Google’s Privacy Policy:
+Firebase may collect anonymized technical and usage data in accordance with Google’s Privacy Policy :
 https://policies.google.com/privacy
 
-## Data Security
+Data Security
 
-We use industry-standard security measures provided by Firebase to protect your data.
+All data transmitted between the app and Firebase services is encrypted in transit using HTTPS.
 
-## Children’s Privacy
+Children’s Privacy
 
-TicTacXO is not directed toward children under 13 years of age.  
+TicTacXO is not directed toward children under 13 years of age.
 We do not knowingly collect personal information from children.
 
-## Third-Party Services
+Changes to This Privacy Policy
 
-The app may use:
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised "Last updated" date.
 
-- Google Firebase
+------------------------------------------------------------
 
-These services may collect anonymized technical data necessary for app functionality.
+ACCOUNT DELETION REQUEST – TicTacXO
 
-## Changes to This Privacy Policy
+If you would like to request deletion of your account and associated data, please follow the steps below.
 
-We may update this Privacy Policy from time to time. Updates will be posted on this page.
+How to Request Account Deletion
 
-## Contact Us
+Option 1 – In-App:
+1. Open the TicTacXO app
+2. Go to Profile
+3. Tap Delete Account (if available)
 
-If you have any questions, contact us at:
+Option 2 – Email Request:
+Send an email to: rajvadaviya1@gmail.com
+Subject: Account Deletion Request – TicTacXO
 
-rajvadaviya1@gmail.com
+What Data Will Be Deleted
 
+- Anonymous user identifier
+- Gameplay statistics
+- Game room history linked to your profile
+
+Data Retention
+
+Some anonymized technical logs may be retained for up to 30 days for security and fraud prevention purposes.
+After this period, all associated identifiable data is permanently deleted.
