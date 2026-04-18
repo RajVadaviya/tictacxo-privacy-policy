@@ -84,3 +84,4 @@ Data Retention
 
 Some anonymized technical logs may be retained for up to 30 days for security and fraud prevention purposes.
 After this period, all associated identifiable data is permanently deleted.
+
